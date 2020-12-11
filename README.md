@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning ...**JavaScript**
 - 👯 I’m looking to collaborate on ...**Anything**
 - 🤔 I’m looking for help with ...**AWS**
-- 💬 Ask me about ...**diversity and inclusion**
+- 💬 Ask me about ...**Diversity and Inclusion**
 - 😄 Pronouns: ...**He/Him**
