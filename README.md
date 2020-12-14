@@ -1,4 +1,4 @@
-### Hello I'm TC
+### Hi, my name is TC
 
 
 - 🔭 I’m currently working on ...**JavaScript**
