@@ -1,7 +1,7 @@
 ### Hi, my name is TC
 
 
-- 🔭 I’m currently working on ... **Web Devevlopment at DevMountain**
+- 🔭 I’m currently working on ... **Web Development at DevMountain**
 - 🌱 I’m currently learning ... **JavaScript**
 - 👯 I’m looking to collaborate on ... **Anything**
 - 🤔 I’m looking for help with ... **AWS, JavaScript, and React**
