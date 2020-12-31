@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on ... **Anything**
 - 🤔 I’m looking for help with ... **AWS, JavaScript, and React**
 - 💬 Ask me about ... **Diversity and Inclusion**
-- 😄 Pronouns: ... **He/Him**
+- 😄 Pronouns: ... **He/Hi**
