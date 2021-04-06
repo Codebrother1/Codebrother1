@@ -1,6 +1,7 @@
 ### Hi, my name is TC
 
 
+- 🧐 I'm a garuate of ... **Devmountain Coding Bootcamp**
 - 🔭 I’m currently working on ... **Web Development at DevMountain**
 - 🌱 I’m currently learning ... **JavaScript**
 - 👯 I’m looking to collaborate on ... **Anything**
