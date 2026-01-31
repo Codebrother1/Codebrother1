@@ -21,6 +21,7 @@
 - AI agent development and workflow automation
 - Collaborative projects in the AI/startup space
 - AI-assisted development and automation engineering
+  
 📫 **Get in touch:**
 - [LinkedIn](https://www.linkedin.com/in/tc-cazy-9538221b8/) - Let's connect
 - [Email](mailto:codebrotha1@gmail.com) - Open for collaboration
