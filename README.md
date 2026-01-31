@@ -23,6 +23,10 @@
 - Discussing modern JavaScript frameworks and AI implementation
 
 📫 **Get in touch:**
+- [LinkedIn](https://www.linkedin.com/in/tc-cazy-9538221b8/) - Let's connect
+- [Email](mailto:codebrotha1@gmail.com) - Open for collaboration
+
+- 🚀 **Currently building:** New AI automation projects and tools (repos coming soon!)
 
 ---
 
