@@ -16,7 +16,7 @@
 - Creating AI-powered automation tools using Claude and OpenAI APIs
 - Building full-stack applications with JavaScript and React
 - Exploring practical AI integrations for real-world problems
-- - Writing technical content about AI automation and development workflows
+- Writing technical content about AI automation and development workflows
 
 ## Let's connect if you're interested in:
 - AI agent development and workflow automation
