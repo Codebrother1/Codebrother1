@@ -24,10 +24,9 @@
 - AI-assisted development and automation engineering
   
 📫 **Get in touch:**
-- [LinkedIn](https://www.linkedin.com/in/tc-cazy-9538221b8/) - Let's connect
+- [LinkedIn](https://www.linkedin.com/in/tc-cazy-9538221b8/)
 - [X](https://x.com/TheTerranceX)
 
-- 🚀 **Currently building:** New AI automation projects and tools (repos coming soon!)
 
 ---
 
