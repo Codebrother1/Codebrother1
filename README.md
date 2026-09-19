@@ -25,6 +25,7 @@
   
 📫 **Get in touch:**
 - [LinkedIn](https://www.linkedin.com/in/tc-cazy-9538221b8/) - Let's connect
+- [X](https://x.com/TheTerranceX)
 
 - 🚀 **Currently building:** New AI automation projects and tools (repos coming soon!)
 
