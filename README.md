@@ -20,7 +20,8 @@ I build AI-powered applications and automation workflows with Python, TypeScript
 ### Models & APIs
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![Grok](https://img.shields.io/badge/-Grok-000000?style=flat-square&logo=x&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Grok](https://img.shields.io/badge/-Grok-000000?style=flat-square)
 
 ## What I'm building
 - AI-powered tools and workflows that solve practical problems
