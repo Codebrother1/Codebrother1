@@ -1,33 +1,45 @@
 # Hi, I'm TC
 
-**AI Developer & Automation Engineer**
+**AI Engineer | Agents, Automation & Full-Stack Development**
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)](https://platform.openai.com/)
-[![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
+I build AI-powered applications and automation workflows with Python, TypeScript, and modern AI development tools. My focus is turning ideas into useful software, and sharing what I learn along the way.
 
-🎓 Devmountain Coding Bootcamp graduate building at the intersection of web development and AI
+### Languages & Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-## What I'm working on:
-- Creating AI-powered automation tools using Claude and OpenAI APIs
-- Building full-stack applications with JavaScript and React
-- Exploring practical AI integrations for real-world problems
-- Writing technical content about AI automation and development workflows
+### AI Development Tools
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/-OpenAI%20Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Devin](https://img.shields.io/badge/-Devin-1E1E2E?style=flat-square)
 
-## Let's connect if you're interested in:
-- AI agent development and workflow automation
-- Collaborative projects in the AI/startup space
-- AI-assisted development and automation engineering
-  
+### Models & APIs
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Grok](https://img.shields.io/badge/-Grok-000000?style=flat-square&logo=x&logoColor=white)
+
+## What I'm building
+- AI-powered tools and workflows that solve practical problems
+- Full-stack applications with AI integrations
+- Agent-driven development workflows using Cursor, Claude Code, and OpenAI Codex
+- Technical content about AI engineering, automation, and building software
+
+## Let's connect
+- AI engineering and workflow automation
+- Collaborative AI products and startup projects
+- Developer tools and practical AI applications
+
+## Background
+🎓 Devmountain Coding Bootcamp graduate with a foundation in full-stack development.
+
 📫 **Get in touch:**
 - [LinkedIn](https://www.linkedin.com/in/tc-cazy-9538221b8/)
 - [X](https://x.com/TheTerranceX)
 
-
 ---
 
-**Current focus:** Building practical AI solutions and exploring opportunities in the startup ecosystem.
+**Current focus:** Building useful AI applications and refining the workflows behind them.
