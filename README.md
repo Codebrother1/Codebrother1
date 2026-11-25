@@ -47,6 +47,15 @@ A personal tool that turns writing you admire into a reusable style guide and AI
 - **CodePath — Applications of AI Engineering | Honors, Fall 2026** — Certificate of Achievement awarded in recognition of outstanding performance and successful course completion.
 - **Devmountain — Coding Bootcamp Graduate** — Foundation in full-stack software development.
 
+### CodePath AI Engineering Coursework
+
+Completed as part of the Fall 2026 Applications of AI Engineering course. These repositories are coursework forks of CodePath starter projects, separate from my independent projects.
+
+- [Project 1 — Unofficial Guide](https://github.com/Codebrother1/ai201-project1-unofficial-guide-starter-v2026)
+- [Project 2 — FitFindr](https://github.com/Codebrother1/ai201-project2-fitfindr-starter-v2026)
+- [Project 3 — TakeMeter](https://github.com/Codebrother1/ai201-project3-takemeter-starter-v2026)
+- [Project 4 — Provenance Guard](https://github.com/Codebrother1/ai201-project4-provenance-guard-starter-v2026)
+
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/tc-cazy-9538221b8/)
