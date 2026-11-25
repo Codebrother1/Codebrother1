@@ -40,7 +40,7 @@ A personal tool that turns writing you admire into a reusable style guide and AI
 **Core languages:** TypeScript, JavaScript, Go, Python\
 **Frameworks and runtimes:** Node.js, React, Vite, Express, tRPC, Drizzle ORM, Vitest, Playwright\
 **Infrastructure and protocols explored in my projects:** Model Context Protocol (MCP), AuthZEN, OCI / ORAS, S3-compatible storage, GitHub Actions\
-**AI development tools:** Cursor, Devin, Factory Droid, Manus
+**AI development tools:** Claude Code, OpenAI Codex, Cursor, Devin, Factory Droid, Manus
 
 ## Education & Credentials
 
