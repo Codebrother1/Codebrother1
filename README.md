@@ -1,46 +1,48 @@
-# Hi, I'm TC
+# TC
 
-**AI Engineer | Agents, Automation & Full-Stack Development**
+**AI Engineer | Agent Infrastructure, Reliability & Developer Tooling**
 
-I build AI-powered applications and automation workflows with Python, TypeScript, and modern AI development tools. My focus is turning ideas into useful software, and sharing what I learn along the way.
+I build tools that make AI-generated work observable, verifiable, reliable, and portable.
 
-### Languages & Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+As AI agents take on more real engineering work, the hard problems shift from *generating* output to *trusting* it: knowing what an agent actually did, checking it against what was required, and carrying the result anywhere it needs to go. My work focuses on that layer: the infrastructure behind AI-powered software rather than the applications on top of it.
 
-### AI Development Tools
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/-OpenAI%20Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Devin](https://img.shields.io/badge/-Devin-1E1E2E?style=flat-square)
+## Selected projects
 
-### Models & APIs
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Grok](https://img.shields.io/badge/-Grok-000000?style=flat-square)
+**[ActionTape](https://github.com/Codebrother1/actiontape)**\
+Records AI agent tool calls over MCP, checks them against declarative contracts, and analyzes what an authorization policy would have decided at each step. *Experimental, v0.1.*
 
-## What I'm building
-- AI-powered tools and workflows that solve practical problems
-- Full-stack applications with AI integrations
-- Agent-driven development workflows using Cursor, Claude Code, and OpenAI Codex
-- Technical content about AI engineering, automation, and building software
+**[Open Web Artifact](https://github.com/Codebrother1/open-web-artifact)**\
+An open specification and reference implementation for portable, immutable, content-addressed web artifacts that agents, CLIs, and CI jobs can publish to any compatible host. *Experimental, v0.5.0; spec v0.2 draft.*
 
-## Let's connect
-- AI engineering and workflow automation
-- Collaborative AI products and startup projects
-- Developer tools and practical AI applications
+**[RepoScape](https://github.com/Codebrother1/reposcape)**\
+A local developer tool that turns unfamiliar codebases into interactive, evidence-backed architecture maps. *v0.1.0.*
+
+**[ProofStack](https://github.com/Codebrother1/proofstack)**\
+An experimental methodology for measuring the gap between an AI agent saying work is complete and evidence that the requirements were actually met.
+
+**[Factory ShipCheck](https://github.com/Codebrother1/factory-shipcheck)**\
+A reusable Factory Droid skill that runs evidence-based release-readiness checks: Git state, tests, lint, build, documentation, and security configuration.
+
+**[Tastemaker](https://github.com/Codebrother1/tastemaker)**\
+A personal tool that turns writing you admire into a reusable style guide and AI writing guidance for your own drafts.
+
+## Engineering interests
+
+- **Observability for agents:** recording what agents actually do, not what they report.
+- **Verification over assertion:** acceptance criteria fixed in advance, with evidence that can be checked independently.
+- **Portability:** open formats and specifications instead of host-specific lock-in.
+- **Deterministic tooling:** reproducible checks, explicit contracts, and clear statements of what is and isn't implemented.
+
+## Technical stack
+
+**Languages:** TypeScript, JavaScript, Python, Go\
+**Runtime & frameworks:** Node.js, React, Vite, Express, tRPC\
+**Infrastructure & protocols:** Model Context Protocol (MCP), OCI / ORAS, S3-compatible storage, GitHub Actions, Playwright\
+**AI development tools:** Claude Code, Cursor, OpenAI Codex, Factory Droid, Devin
 
 ## Background
-🎓 Devmountain Coding Bootcamp graduate with a foundation in full-stack development.
 
-📫 **Get in touch:**
+Devmountain Coding Bootcamp graduate with a foundation in full-stack development.
+
 - [LinkedIn](https://www.linkedin.com/in/tc-cazy-9538221b8/)
 - [X](https://x.com/TheTerranceX)
-
----
-
-**Current focus:** Building useful AI applications and refining the workflows behind them.
