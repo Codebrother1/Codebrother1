@@ -6,6 +6,8 @@ I build tools that make AI-generated work observable, verifiable, reliable, and 
 
 As AI agents take on more real engineering work, the hard problems shift from *generating* output to *trusting* it: knowing what an agent actually did, checking it against what was required, and carrying the result anywhere it needs to go. My work focuses on that layer: the infrastructure behind AI-powered software rather than the applications on top of it.
 
+Evidence over assumptions. Verification over promises. Reusable systems over one-off solutions.
+
 ## Selected projects
 
 **[ActionTape](https://github.com/Codebrother1/actiontape)**\
@@ -33,12 +35,12 @@ A personal tool that turns writing you admire into a reusable style guide and AI
 - **Portability:** open formats and specifications instead of host-specific lock-in.
 - **Deterministic tooling:** reproducible checks, explicit contracts, and clear statements of what is and isn't implemented.
 
-## Technical stack
+## Technologies & Tools
 
-**Languages:** TypeScript, JavaScript, Python, Go\
-**Runtime & frameworks:** Node.js, React, Vite, Express, tRPC\
-**Infrastructure & protocols:** Model Context Protocol (MCP), OCI / ORAS, S3-compatible storage, GitHub Actions, Playwright\
-**AI development tools:** Claude Code, Cursor, OpenAI Codex, Factory Droid, Devin
+**Core languages:** TypeScript, JavaScript, Go, Python\
+**Frameworks and runtimes:** Node.js, React, Vite, Express, tRPC, Drizzle ORM, Vitest, Playwright\
+**Infrastructure and protocols explored in my projects:** Model Context Protocol (MCP), AuthZEN, OCI / ORAS, S3-compatible storage, GitHub Actions\
+**AI development tools:** Cursor, Devin, Factory Droid, Manus
 
 ## Background
 
