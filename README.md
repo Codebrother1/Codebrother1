@@ -42,9 +42,12 @@ A personal tool that turns writing you admire into a reusable style guide and AI
 **Infrastructure and protocols explored in my projects:** Model Context Protocol (MCP), AuthZEN, OCI / ORAS, S3-compatible storage, GitHub Actions\
 **AI development tools:** Cursor, Devin, Factory Droid, Manus
 
-## Background
+## Education & Credentials
 
-Devmountain Coding Bootcamp graduate with a foundation in full-stack development.
+- **CodePath — Applications of AI Engineering | Honors, Fall 2026** — Certificate of Achievement awarded in recognition of outstanding performance and successful course completion.
+- **Devmountain — Coding Bootcamp Graduate** — Foundation in full-stack software development.
+
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/tc-cazy-9538221b8/)
 - [X](https://x.com/TheTerranceX)
